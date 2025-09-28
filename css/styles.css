@@ -1021,6 +1021,10 @@ button {
     .footer-form-text {
         text-align: left;
     }
+
+        .footer-form-input {
+            width: 264px;
+    }
 }
 
 @media screen and (min-width: 1158px) {
